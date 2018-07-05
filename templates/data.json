@@ -89,5 +89,12 @@
 	"y": 720,
 	"width": 217,
 	"height": 116
+  },
+	  "great": {
+	"name": "great.png",
+	"x": 1176,
+	"y": -209,
+	"widtg": 200,
+	"height": 177
   }
 }
