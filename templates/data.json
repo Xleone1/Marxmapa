@@ -82,5 +82,12 @@
 	"y": 89,
 	"width": 102,
 	"height": 48 
-  }
+  },
+      "vandalslattice": {
+	"name": "vandalslattice.png",  
+	"x": 722,
+	"y": 720,
+	"width": 217,
+	"height": 116
+  },
 }
