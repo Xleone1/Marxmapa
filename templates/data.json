@@ -94,7 +94,14 @@
 	"name": "great.png",
 	"x": 1176,
 	"y": -209,
-	"widtg": 200,
+	"width": 200,
 	"height": 177
+  },
+	  "gpcy": {
+	"name": "gpcy.png", 
+	"x": 1402,
+	"y": 44,
+	"width": 243,
+	"height": 44
   }
 }
