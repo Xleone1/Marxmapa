@@ -103,5 +103,12 @@
 	"y": 44,
 	"width": 243,
 	"height": 44
+  },
+	  "argentina": {
+	 "name": "argentina.png",
+	 "x": 701,
+	 "y": 160,
+	 "width": 120,
+	 "height": 74
   }
 }
