@@ -110,12 +110,5 @@
 	 "y": 160,
 	 "width": 120,
 	 "height": 74
-  },
- 	  "turk": {
-	 "name": "turk.png",
-	 "x": 534,
-	 "y": -671,
-	 "width": 197,
-	 "height": 131
-  } 
+  }
 }
