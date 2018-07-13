@@ -20,13 +20,6 @@
     "width": 90,
     "height": 91
   },
-  "pixelzone": {
-    "name": "pixelzone.png",
-    "x": -2550,
-    "y": -3082,
-    "width": 157,
-    "height": 157
-   },
     "pixelart": {
     "name": "pixelart.png",
     "x": 2696,
@@ -117,5 +110,12 @@
 	 "y": -1237,
 	 "width": 343,
 	 "height": 242
-  } 
+  } ,
+      "logo": {
+	 "name": "logo.png",
+	 "x": -2550,
+	 "y": -3082,
+	 "width": 157,
+	 "height": 157
+  }
 }
