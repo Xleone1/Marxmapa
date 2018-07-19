@@ -1,10 +1,10 @@
 {
-  "Marxzone": {
-    "name": "marxzone.png",
-    "x": 650,
-    "y": 836,
-    "width": 363,
-    "height": 289
+  "cyanes": {
+    "name": "cyanes.png",
+    "x": 779,
+    "y": 951,
+    "width": 108,
+    "height": 16
    },
     "argt": {
     "name": "argt.png",
@@ -110,7 +110,7 @@
 	 "y": -1237,
 	 "width": 343,
 	 "height": 242
-  } ,
+  },
       "logo": {
 	 "name": "logo.png",
 	 "x": -2550,
