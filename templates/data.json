@@ -13,12 +13,12 @@
     "width": 47,
     "height": 44
    },
-    "green": {
-    "name": "green.png",
-    "x": 1820,
-    "y": 3760,
-    "width": 90,
-    "height": 91
+    "greendiscord": {
+    "name": "greendiscord.png",
+    "x": 995,
+    "y": 765,
+    "width": 327,
+    "height": 51
   },
     "pixelart": {
     "name": "pixelart.png",
