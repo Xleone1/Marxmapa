@@ -20,12 +20,12 @@
     "width": 327,
     "height": 51
   },
-    "pixelart": {
-    "name": "pixelart.png",
-    "x": 2696,
-    "y": -2800,
-    "width": 100,
-    "height": 231
+    "bye": {
+    "name": "bye.png",
+    "x": 822,
+    "y": 3530,
+    "width": 208,
+    "height": 93
    },
     "poraet": {
     "name": "poraet.png",
