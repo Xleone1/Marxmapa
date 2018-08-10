@@ -41,12 +41,12 @@
     "width": 125,
     "height": 154
    },
-      "pitufo": {
-    "name": "pitufo.png",
-    "x": 1484,
-    "y": 1866,
-    "width": 63,
-    "height": 36
+      "br": {
+    "name": "br.png",
+    "x": 478,
+    "y": 2930,
+    "width": 202,
+    "height": 29
    },
       "cyanzone": {
     "name": "cyanzone.png",
