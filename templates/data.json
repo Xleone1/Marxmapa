@@ -55,12 +55,12 @@
     "width": 72,
     "height": 68
    },
-      "marxporaet": {
-    "name": "marxporaet.png",
-    "x": 1488,
-    "y": 728,
-    "width": 87,
-    "height": 15
+      "disc": {
+    "name": "disc.png",
+    "x": 1250,
+    "y": -746,
+    "width": 108,
+    "height": 16
    },
   "abysszone": {
     "name": "abysszone.png",
