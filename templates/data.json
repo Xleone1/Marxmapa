@@ -41,12 +41,12 @@
     "width": 255,
     "height": 155
    },
-      "br": {
-    "name": "br.png",
-    "x": 478,
-    "y": 2930,
-    "width": 202,
-    "height": 29
+      "pepe": {
+    "name": "pepe.png",
+    "x": 962,
+    "y": -941,
+    "width": 71,
+    "height": 71
    },
       "cyanzone": {
     "name": "cyanzone.png",
