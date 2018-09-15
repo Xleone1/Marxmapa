@@ -34,12 +34,12 @@
     "width": 190,
     "height": 107
    },
-    "siyahs": {
-    "name": "siyahs.png",
-    "x": 919,
-    "y":  -871,
-    "width": 255,
-    "height": 155
+    "fotc": {
+    "name": "fotc.png",
+    "x": 941,
+    "y":  -855,
+    "width": 177,
+    "height": 139
    },
       "pepe": {
     "name": "pepe.png",
