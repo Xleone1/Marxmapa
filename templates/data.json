@@ -48,12 +48,12 @@
     "width": 71,
     "height": 71
    },
-      "cyanzone": {
-    "name": "cyanzone.png",
-    "x": 867,
-    "y": 3653,
-    "width": 72,
-    "height": 68
+      "ve": {
+    "name": "ve.png",
+    "x": 1253,
+    "y": -1088,
+    "width": 69,
+    "height": 48
    },
       "disc": {
     "name": "disc.png",
