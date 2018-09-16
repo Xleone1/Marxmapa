@@ -34,12 +34,12 @@
     "width": 190,
     "height": 107
    },
-    "fotc": {
-    "name": "fotc.png",
-    "x": 941,
-    "y":  -855,
-    "width": 177,
-    "height": 139
+    "fotc1": {
+    "name": "fotc1.png",
+    "x": 940,
+    "y":  -947,
+    "width": 450,
+    "height": 231
    },
       "pepe": {
     "name": "pepe.png",
