@@ -1,10 +1,10 @@
 {
   "cyanes": {
-    "name": "cyanes.png",
-    "x": 781,
-    "y": 918,
-    "width": 108,
-    "height": 16
+    "name": "argentina.png",
+    "x": 1028,
+    "y": -1088,
+    "width": 201,
+    "height": 137
    },
     "boliviatear": {
     "name": "boliviatear.png",
@@ -13,26 +13,19 @@
     "width": 47,
     "height": 44
    },
-    "greendiscord": {
-    "name": "greendiscord.png",
+    "1": {
+    "name": "1.png",
     "x": 995,
     "y": 765,
     "width": 327,
     "height": 51
   },
-    "argzone2": {
-    "name": "argzone2.png",
-    "x": 1028,
-    "y": -1088,
-    "width": 201,
-    "height": 137
-   },
-    "argzoxne2": {
-    "name": "argzoxne2.png",
+    "x": {
+    "name": "x.png",
     "x": 0,
     "y": 0,
-    "width": 190,
-    "height": 107
+    "width": 0,
+    "height": 0
    },
     "fotc1": {
     "name": "fotc1.png",
@@ -55,64 +48,64 @@
     "width": 69,
     "height": 48
    },
-      "disc": {
-    "name": "disc.png",
+      "otrox": {
+    "name": "0.png",
     "x": 1241,
     "y": -743,
     "width": 108,
     "height": 16
    },
-  "abysszone": {
-    "name": "abysszone.png",
+  "otro": {
+    "name": "1.png",
     "x": 3273,
     "y": 1201,
     "width": 141,
     "height": 191
   },
-	  "vandals": {
-	"name": "vandals.png",
+	  "otro2": {
+	"name": "2.png",
 	"x": 1404,
 	"y": 89,
 	"width": 102,
 	"height": 48 
   },
-      "vandalslattice": {
-	"name": "vandalslattice.png",  
+      "otro3": {
+	"name": "3.png",  
 	"x": 722,
 	"y": 720,
 	"width": 217,
 	"height": 116
   },
-	  "great": {
-	"name": "great.png",
+	  "otro4": {
+	"name": "4.png",
 	"x": 1176,
 	"y": -209,
 	"width": 200,
 	"height": 177
   },
-	  "gpcy": {
-	"name": "gpcy.png", 
+	  "otro5": {
+	"name": "5.png", 
 	"x": 1402,
 	"y": 44,
 	"width": 243,
 	"height": 44
   },
-	  "argentina": {
-	 "name": "argentina.png",
+	  "otro6": {
+	 "name": "6.png",
 	 "x": 701,
 	 "y": 160,
 	 "width": 120,
 	 "height": 74
   },
- 	  "argentinaareback": {
-	 "name": "argentinaareback.png",
+ 	  "otro7": {
+	 "name": "8.png",
 	 "x": 2329,
 	 "y": -1237,
 	 "width": 343,
 	 "height": 242
   },
-      "logo": {
-	 "name": "logo.png",
+      "otro9": {
+	 "name": "9.png",
 	 "x": -2550,
 	 "y": -3082,
 	 "width": 157,
