@@ -20,12 +20,12 @@
     "width": 192,
     "height": 141
   },
-    "x": {
-    "name": "x.png",
-    "x": 0,
-    "y": 0,
-    "width": 0,
-    "height": 0
+    "0800": {
+    "name": "0800.png",
+    "x": 705,
+    "y": -1526,
+    "width": 190,
+    "height": 179
    },
     "fotc1": {
     "name": "fotc1.png",
