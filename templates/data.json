@@ -48,12 +48,12 @@
     "width": 69,
     "height": 48
    },
-      "argnazi": {
-    "name": "argnazi.png",
-    "x": -4,
-    "y": -671,
-    "width": 68,
-    "height": 44
+      "disc": {
+    "name": "disc.png",
+    "x": -9,
+    "y": -702,
+    "width": 104,
+    "height": 12
    },
   "otro": {
     "name": "1.png",
