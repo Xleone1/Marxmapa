@@ -48,12 +48,12 @@
     "width": 69,
     "height": 48
    },
-      "disc": {
-    "name": "disc.png",
+      "kekzone": {
+    "name": "kekzone.png",
     "x": -9,
-    "y": -702,
-    "width": 104,
-    "height": 12
+    "y": -723,
+    "width": 145,
+    "height": 97
    },
   "otro": {
     "name": "1.png",
